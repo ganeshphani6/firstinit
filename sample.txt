@@ -1,5 +1,0 @@
-for testing rm log commands
-
-this is to check checkout -- file name comm
- hi this  is phani
-22222
