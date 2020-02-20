@@ -1,0 +1,3 @@
+for testing rm log commands
+
+this is to check checkout -- file name comm
